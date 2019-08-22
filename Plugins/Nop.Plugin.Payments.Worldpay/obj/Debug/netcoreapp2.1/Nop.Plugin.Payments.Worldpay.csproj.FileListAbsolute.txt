@@ -1,0 +1,17 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\plugin.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Configure.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\PaymentInfo.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\_ViewImports.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Views\Customer\_CreateOrUpdate.Worldpay.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\cards.jpg
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\logo.jpg
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.Worldpay\Nop.Plugin.Payments.Worldpay.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csprojAssemblyReference.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.Worldpay\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.Worldpay.pdb

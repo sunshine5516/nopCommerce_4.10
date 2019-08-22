@@ -1,0 +1,16 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\plugin.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\logo.png
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Configure.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Create.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\Edit.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_CreateOrUpdate.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Views\_ViewImports.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Pickup.PickupInStore\Nop.Plugin.Pickup.PickupInStore.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Pickup.PickupInStore\obj\Debug\netcoreapp2.1\Nop.Plugin.Pickup.PickupInStore.pdb

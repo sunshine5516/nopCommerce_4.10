@@ -1,0 +1,14 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\plugin.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\Configure.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\PaymentInfo.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Views\_ViewImports.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\logo.jpg
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.PayPalStandard\Nop.Plugin.Payments.PayPalStandard.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.PayPalStandard\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.PayPalStandard.pdb

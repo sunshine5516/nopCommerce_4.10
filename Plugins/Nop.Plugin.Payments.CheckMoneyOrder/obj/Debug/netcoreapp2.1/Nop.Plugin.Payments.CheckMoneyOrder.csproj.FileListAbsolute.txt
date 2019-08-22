@@ -1,0 +1,15 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\plugin.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\Configure.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\PaymentInfo.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Views\_ViewImports.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\logo.jpg
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\Payments.CheckMoneyOrder\Nop.Plugin.Payments.CheckMoneyOrder.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csprojAssemblyReference.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.Payments.CheckMoneyOrder\obj\Debug\netcoreapp2.1\Nop.Plugin.Payments.CheckMoneyOrder.pdb

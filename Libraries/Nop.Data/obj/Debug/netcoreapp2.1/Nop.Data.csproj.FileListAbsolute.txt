@@ -1,0 +1,12 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Data.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\bin\Debug\netcoreapp2.1\Nop.Core.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csprojAssemblyReference.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Libraries\Nop.Data\obj\Debug\netcoreapp2.1\Nop.Data.pdb

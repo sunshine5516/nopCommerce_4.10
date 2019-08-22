@@ -1,0 +1,14 @@
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\plugin.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\Configure.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Views\_ViewImports.cshtml
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\logo.jpg
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.deps.json
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Presentation\Nop.Web\Plugins\DiscountRules.CustomerRoles\Nop.Plugin.DiscountRules.CustomerRoles.pdb
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csprojAssemblyReference.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CoreCompileInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfoInputs.cache
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.AssemblyInfo.cs
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.csproj.CopyComplete
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.dll
+F:\Demo\开源框架\nopCommerce框架\nopCommerce_4.10_Source\Plugins\Nop.Plugin.DiscountRules.CustomerRoles\obj\Debug\netcoreapp2.1\Nop.Plugin.DiscountRules.CustomerRoles.pdb
